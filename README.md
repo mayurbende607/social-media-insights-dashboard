@@ -85,7 +85,7 @@ Monthly Engagement Trend – Time-based performance analysis
 Best Day to Post – Optimal posting days based on engagement
 
 🖼️ Dashboard Preview:-
-https://github.com/mayurbende607/social-media-insights-dashboard/blob/main/images/final_dashboard.png.png
+https://github.com/mayurbende607/social-media-insights-dashboard/blob/main/images/final_dashboard.png
 
 🧠 Key Insights
 
