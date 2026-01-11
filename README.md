@@ -1,30 +1,43 @@
 📊 Social Media Insights Dashboard
 📌 Project Overview
 
-This project analyzes social media engagement performance across multiple platforms using SQL and Power BI.
-The dashboard provides actionable insights into engagement trends, platform performance, content topics, sentiment impact, and optimal posting times.
+This project analyzes social media engagement data across multiple platforms to uncover what content performs best, where engagement is strongest, and when posts generate maximum interaction.
 
-The goal of this project is to demonstrate end-to-end data analytics skills:
+Using SQL for analysis and Power BI for visualization, the dashboard converts raw post-level data into clear, actionable insights that support content and marketing decision-making.
 
-Raw data handling
+🎯 Business Problem
 
-SQL-based analysis
+Social media teams often struggle to:
 
-Data modeling
+Identify high-performing platforms
 
-KPI creation
+Understand which content topics drive engagement
 
-Professional dashboard design for business decision-making
+Determine the best time and day to post
+
+This dashboard addresses these challenges by centralizing engagement metrics and highlighting performance patterns.
+
+🔍 What This Project Demonstrates
+
+Cleaning and preparing raw CSV data
+
+Writing SQL queries for engagement analysis
+
+Data modeling and relationships in Power BI
+
+KPI creation using DAX
+
+Designing a professional, business-focused dashboard
 
 🛠️ Tools & Technologies
 
-Power BI – Data modeling, DAX measures, dashboard design
+Power BI – Data modeling, DAX measures, interactive dashboards
 
-SQL – Data analysis & aggregation
+SQL – Aggregations, grouping, and analytical queries
 
-CSV Dataset – Social media post-level data
+CSV Dataset – Post-level social media engagement data
 
-GitHub – Project versioning & documentation
+GitHub – Version control and documentation
 
 📂 Project Structure
 social-media-insights-dashboard
@@ -43,16 +56,6 @@ social-media-insights-dashboard
 │
 └── README.md
 
-📁 Folder Explanation
-
-data/ → Raw dataset used for analysis
-
-sql/ → SQL queries for engagement analysis
-
-powerbi/ → Final Power BI dashboard file
-
-images/ → Dashboard preview for recruiters
-
 📈 Key Metrics (KPIs)
 
 Total Engagement
@@ -65,17 +68,17 @@ Total Posts
 
 📊 Dashboard Features
 
-Engagement by Platform – Compare performance across platforms
+Engagement by Platform – Performance comparison across platforms
 
-Engagement Rate Contribution – Platform-wise share of engagement
+Engagement Contribution – Platform-wise share of engagement
 
 Audience Interaction Funnel – Impressions → Likes → Shares → Comments
 
-Top Viral Posts – Highest engagement posts
+Top Viral Posts – Highest engagement content
 
-Top Content Topics – Most engaging content categories
+Top Content Topics – Best-performing categories
 
-Engagement by Sentiment – Positive, Neutral, Negative comparison
+Engagement by Sentiment – Positive vs Neutral vs Negative
 
 Monthly Engagement Trend – Time-based performance analysis
 
@@ -83,40 +86,30 @@ Best Day to Post – Optimal posting days based on engagement
 
 🖼️ Dashboard Preview
 
-🧠 Business Insights
 
-Identifies top-performing platforms for engagement
+🧠 Key Insights
 
-Highlights best posting days for maximum reach
+Certain platforms consistently outperform others in engagement
 
-Shows how sentiment affects engagement
+Positive sentiment content generates higher interaction
 
-Helps content teams focus on high-impact topics
+Posting on specific days leads to improved reach and engagement
 
-Enables data-driven social media strategy decisions
-
-🎯 Skills Demonstrated
-
-Data Cleaning & Transformation
-
-SQL Aggregations & Analysis
-
-Power BI DAX Measures
-
-KPI Design & Dashboard Storytelling
-
-Business-focused Data Visualization
+A small set of topics drives a majority of user interaction
 
 🚀 How to Use
 
-Download the repository
+Clone or download the repository
 
 Open Social_Media_Insights.pbix in Power BI Desktop
 
-Refresh data (if required)
+Refresh the dataset if required
 
 Explore insights using slicers and visuals
 
-📬 Contact
+👤 Author
 
-If you’d like to discuss this project or opportunities in Data Analytics / Business Intelligence, feel free to connect with me on LinkedIn.
+Mayur Bende
+Aspiring Data Analyst | SQL | Power BI | Data Visualization
+
+🔗 LinkedIn: https://www.linkedin.com/in/mayur-bende/
