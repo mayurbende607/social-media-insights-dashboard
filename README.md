@@ -1,115 +1,73 @@
-📊 Social Media Insights Dashboard
-📌 Project Overview
+# 📊 Social Media Insights Dashboard
 
-This project analyzes social media engagement data across multiple platforms to uncover what content performs best, where engagement is strongest, and when posts generate maximum interaction.
+## 📌 Project Overview
+Analyzes social media engagement across multiple platforms to identify top-performing content, peak engagement times, and audience interaction trends. Using SQL and Power BI, raw post-level data is converted into actionable business insights.
 
-Using SQL for analysis and Power BI for visualization, the dashboard converts raw post-level data into clear, actionable insights that support content and marketing decision-making.
-
-🎯 Business Problem
-
+## 🎯 Business Problem
 Social media teams often struggle to:
+- Identify high-performing platforms
+- Discover content that drives engagement
+- Optimize posting times for maximum reach
 
-Identify high-performing platforms
+This dashboard centralizes engagement metrics to solve these challenges.
 
-Understand which content topics drive engagement
+## 🛠️ Tools & Technologies
+- **Power BI:** Data modeling, DAX measures, interactive dashboards  
+- **SQL:** Aggregations, grouping, analytical queries  
+- **CSV Dataset:** Post-level social media engagement data  
+- **GitHub:** Version control and documentation  
 
-Determine the best time and day to post
-
-This dashboard addresses these challenges by centralizing engagement metrics and highlighting performance patterns.
-
-🔍 What This Project Demonstrates
-
-Cleaning and preparing raw CSV data
-
-Writing SQL queries for engagement analysis
-
-Data modeling and relationships in Power BI
-
-KPI creation using DAX
-
-Designing a professional, business-focused dashboard
-
-🛠️ Tools & Technologies
-
-Power BI – Data modeling, DAX measures, interactive dashboards
-
-SQL – Aggregations, grouping, and analytical queries
-
-CSV Dataset – Post-level social media engagement data
-
-GitHub – Version control and documentation
-
-📂 Project Structure
-social-media-insights-dashboard
+## 📂 Project Structure
+social-media-insights-dashboard/
 │
-├── data/
-│   └── social_media_data.csv
-│
-├── sql/
-│   └── engagement_analysis.sql
-│
-├── powerbi/
-│   └── Social_Media_Insights.pbix
-│
-├── images/
-│   └── final_dashboard.png
-│
+├── sql/ # SQL analysis scripts
+│ └── engagement_analysis.sql
+├── data/ # CSV data
+│ └── social_media_data.csv
+├── images/ # Dashboard images
+│ └── final_dashboard.png
+├── powerbi/ # Power BI file
+│ └── Social_Media_Insights.pbix
 └── README.md
 
-📈 Key Metrics (KPIs)
 
-Total Engagement
+## 📈 Key Metrics (KPIs)
+- **Total Engagement**  
+- **Average Engagement per Post**  
+- **Engagement Rate (%)** = (Total Engagement / Total Impressions) * 100  
+- **Total Posts**  
 
-Average Engagement per Post
+## 📊 Dashboard Features
+**Platform Analysis**
+- Engagement by Platform  
+- Engagement Contribution  
 
-Engagement Rate (%)
+**Content Analysis**
+- Top Viral Posts  
+- Top Content Topics  
+- Engagement by Sentiment  
 
-Total Posts
+**Time Analysis**
+- Monthly Engagement Trend  
+- Best Day to Post  
 
-📊 Dashboard Features
+![Dashboard Preview](images/final_dashboard.png)
 
-Engagement by Platform – Performance comparison across platforms
+## 🧠 Key Insights
+- Certain platforms consistently outperform others  
+- Positive sentiment posts generate higher interaction  
+- Posting on specific days boosts reach  
+- A small set of topics drives most user engagement  
 
-Engagement Contribution – Platform-wise share of engagement
+## 🚀 How to Use
+1. Clone or download the repository  
+2. Ensure Power BI Desktop is installed  
+3. Open `Social_Media_Insights.pbix`  
+4. Refresh the dataset (if needed)  
+5. Explore insights using slicers and visuals  
 
-Audience Interaction Funnel – Impressions → Likes → Shares → Comments
+## 👤 Author
+**Mayur Bende**  
+Aspiring Data Analyst | SQL | Power BI | Data Visualization  
+[LinkedIn](https://www.linkedin.com/in/mayur-bende/) | [GitHub](https://github.com/mayurbende607)
 
-Top Viral Posts – Highest engagement content
-
-Top Content Topics – Best-performing categories
-
-Engagement by Sentiment – Positive vs Neutral vs Negative
-
-Monthly Engagement Trend – Time-based performance analysis
-
-Best Day to Post – Optimal posting days based on engagement
-
-🖼️ Dashboard Preview:-
-https://github.com/mayurbende607/social-media-insights-dashboard/blob/main/images/final_dashboard.png
-
-🧠 Key Insights
-
-Certain platforms consistently outperform others in engagement
-
-Positive sentiment content generates higher interaction
-
-Posting on specific days leads to improved reach and engagement
-
-A small set of topics drives a majority of user interaction
-
-🚀 How to Use
-
-Clone or download the repository
-
-Open Social_Media_Insights.pbix in Power BI Desktop
-
-Refresh the dataset if required
-
-Explore insights using slicers and visuals
-
-👤 Author
-
-Mayur Bende
-Aspiring Data Analyst | SQL | Power BI | Data Visualization
-
-🔗 LinkedIn: https://www.linkedin.com/in/mayur-bende/
