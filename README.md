@@ -52,7 +52,8 @@ social-media-insights-dashboard/
 - Monthly Engagement Trend  
 - Best Day to Post  
 
-![Dashboard Preview](images/final_dashboard.png)
+![Dashboard Preview](images/Dashboard_1.png)
+
 
 ## 🧠 Key Insights
 - Certain platforms consistently outperform others  
