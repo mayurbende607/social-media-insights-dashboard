@@ -34,9 +34,13 @@ This dashboard centralizes engagement metrics to address these challenges effect
 
 
 ## 🛠️ Tools & Technologies
-- **Power BI:** Data modeling, DAX measures, interactive dashboards  
-- **SQL:** Aggregations, grouping, analytical queries  
-- **CSV Dataset:** Post-level social media engagement data  
+
+- **Power BI:** Data modeling, DAX measures, interactive dashboards
+  
+- **SQL:** Aggregations, grouping, analytical queries
+
+- **CSV Dataset:** Post-level social media engagement data
+    
 - **GitHub:** Version control and documentation  
 
 ## 📂 Project Structure
@@ -55,62 +59,54 @@ social-media-insights-dashboard/
 
 
 ## 📈 Key Metrics (KPIs)
-- **Total Engagement**  
-- **Average Engagement per Post**  
-- **Engagement Rate (%)** 
+- **Total Engagement**
+  
+- **Average Engagement per Post**
+  
+- **Engagement Rate (%)**
+  
 - **Total Posts**  
 
-## 📊 Dashboard Features
-**Platform Analysis**
-- Engagement by Platform  
-- Engagement Contribution  
 
-**Content Analysis**
-- Top Viral Posts  
-- Top Content Topics  
-- Engagement by Sentiment  
-
-**Time Analysis**
-- Monthly Engagement Trend  
-- Best Day to Post  
 ## 📊 Dashboard Pages & Features
-🔹 Page 1: Executive Overview
+### 🔹 Page 1: Executive Overview
 
 - Engagement by Platform
+  
 - Best Day to Post
+
 - Monthly Engagement Trend
+
 - Audience Interaction Funnel
+
 - Top Content Topics
+
 - Interactive filters (Platform, Topic Category, Sentiment)
 
-🔹 Page 2: Platform & Sentiment Analysis
+### 🔹 Page 2: Platform & Sentiment Analysis
 
-Total Engagement by Month and Platform
+- Total Engagement by Month and Platform
 
-Engagement by Platform and Sentiment
+- Engagement by Platform and Sentiment
 
-🧠 Key Insights
+## 🧠 Key Insights
 
-Certain platforms consistently outperform others in engagement
+- Certain platforms consistently outperform others in engagement
 
-Positive sentiment posts generate higher user interaction
+- Positive sentiment posts generate higher user interaction
 
-Posting on specific days improves reach and engagement
+- Posting on specific days improves reach and engagement
 
-A small set of content topics drives the majority of engagement
+- A small set of content topics drives the majority of engagement
 
-Engagement Rate by Platform
+- Engagement Rate by Platform
 
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](images/Dashboard_1.png)
 
 
-## 🧠 Key Insights
-- Certain platforms consistently outperform others  
-- Positive sentiment posts generate higher interaction  
-- Posting on specific days boosts reach  
-- A small set of topics drives most user engagement  
+
 
 ## 🚀 How to Use
 1. Clone or download the repository  
