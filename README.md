@@ -20,17 +20,17 @@ This dashboard centralizes engagement metrics to address these challenges effect
 
 ## 🔍 What This Project Demonstrates
 
-Data cleaning and preparation using SQL
+- Data cleaning and preparation using SQL
 
-Writing analytical SQL queries for engagement insights
+- Writing analytical SQL queries for engagement insights
 
-KPI creation using DAX
+- KPI creation using DAX
 
-Data modeling and relationships in Power BI
+- Data modeling and relationships in Power BI
 
-Designing an executive-friendly, business-focused dashboard
+- Designing an executive-friendly, business-focused dashboard
 
-Applying data storytelling best practices
+- Applying data storytelling best practices
 
 
 ## 🛠️ Tools & Technologies
