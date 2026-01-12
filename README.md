@@ -1,16 +1,37 @@
-
 # 📊 Social Media Insights Dashboard
 
 ## 📌 Project Overview
-Analyzes social media engagement across multiple platforms to identify top-performing content, peak engagement times, and audience interaction trends. Using SQL and Power BI, raw post-level data is converted into actionable business insights.
+
+This project analyzes social media engagement data across multiple platforms to identify top-performing content, peak engagement periods, and audience interaction trends.
+
+Using SQL for data analysis and Power BI for visualization, raw post-level data is transformed into actionable business insights that support content and marketing decisions.
 
 ## 🎯 Business Problem
-Social media teams often struggle to:
-- Identify high-performing platforms
-- Discover content that drives engagement
-- Optimize posting times for maximum reach
 
-This dashboard centralizes engagement metrics to solve these challenges.
+Social media teams often struggle to:
+
+- Identify high-performing platforms
+
+- Understand which content drives engagement
+
+- Optimize posting timing for maximum reach
+
+This dashboard centralizes engagement metrics to address these challenges effectively.
+
+## 🔍 What This Project Demonstrates
+
+Data cleaning and preparation using SQL
+
+Writing analytical SQL queries for engagement insights
+
+KPI creation using DAX
+
+Data modeling and relationships in Power BI
+
+Designing an executive-friendly, business-focused dashboard
+
+Applying data storytelling best practices
+
 
 ## 🛠️ Tools & Technologies
 - **Power BI:** Data modeling, DAX measures, interactive dashboards  
@@ -26,7 +47,8 @@ social-media-insights-dashboard/
 ├── data/ # CSV data
 │ └── social_media_data.csv
 ├── images/ # Dashboard images
-│ └── final_dashboard.png
+│ └── Dashboard_1.png
+| └── Dashboard_2.png
 ├── powerbi/ # Power BI file
 │ └── Social_Media_Insights.pbix
 └── README.md
@@ -35,7 +57,7 @@ social-media-insights-dashboard/
 ## 📈 Key Metrics (KPIs)
 - **Total Engagement**  
 - **Average Engagement per Post**  
-- **Engagement Rate (%)** = (Total Engagement / Total Impressions) * 100  
+- **Engagement Rate (%)** 
 - **Total Posts**  
 
 ## 📊 Dashboard Features
@@ -51,6 +73,35 @@ social-media-insights-dashboard/
 **Time Analysis**
 - Monthly Engagement Trend  
 - Best Day to Post  
+## 📊 Dashboard Pages & Features
+🔹 Page 1: Executive Overview
+
+- Engagement by Platform
+- Best Day to Post
+- Monthly Engagement Trend
+- Audience Interaction Funnel
+- Top Content Topics
+- Interactive filters (Platform, Topic Category, Sentiment)
+
+🔹 Page 2: Platform & Sentiment Analysis
+
+Total Engagement by Month and Platform
+
+Engagement by Platform and Sentiment
+
+🧠 Key Insights
+
+Certain platforms consistently outperform others in engagement
+
+Positive sentiment posts generate higher user interaction
+
+Posting on specific days improves reach and engagement
+
+A small set of content topics drives the majority of engagement
+
+Engagement Rate by Platform
+
+## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](images/Dashboard_1.png)
 
