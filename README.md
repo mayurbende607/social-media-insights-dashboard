@@ -104,7 +104,7 @@ social-media-insights-dashboard/
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](images/Dashboard_1.png)
-
+![Dashboard Preview](images/Dashboard_2.png)
 
 
 
